@@ -18,4 +18,5 @@ this is an early-days attempt to create powerful productivity software using web
 ## Q&A
 
 **how confident are you that this will become something useful?** *not very.*
-**what's with the name?** *funny.*
+
+**what's with the name?** *i think it's mildly funny.*
