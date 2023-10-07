@@ -14,3 +14,8 @@ this is an early-days attempt to create powerful productivity software using web
 * hyper tables: n-dimensional spreadsheet (pivot tables) \[early mockup\]
 * dynamic draw: procedural graphics with direct manipulation \[planned\]
 * pages: HTML and CSS design and layout \[planned\]
+
+## Q&A
+
+**how confident are you that this will become something useful?** *not very.*
+**what's with the name?** *funny.*
