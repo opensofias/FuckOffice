@@ -1,0 +1,22 @@
+th {
+	background-color: black;
+	color: white;
+	margin: 0;
+	width: 128px;
+	height: 24px;
+}
+
+td {
+	background-color: white;
+}
+
+table {
+	border-spacing: 0;
+	padding: 16px;
+}
+
+td, th {
+	border-image: linear-gradient(calc(3turn / 8), transparent calc(100% - 16px) , currentColor) 1;
+	border-width: 1px;
+	border-style: solid;
+}
