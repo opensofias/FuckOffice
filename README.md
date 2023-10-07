@@ -8,3 +8,9 @@ this is an early-days attempt to create powerful productivity software using web
 * disregard familiarity, embrace explorability
 * harness the power of web technology
 * public domain: copyright is bad for you
+ 
+## components
+
+* hyper tables: n-dimensional spreadsheet (pivot tables) \[early mockup\]
+* dynamic draw: procedural graphics with direct manipulation \[planned\]
+* pages: HTML and CSS design and layout \[planned\]
